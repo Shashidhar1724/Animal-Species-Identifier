@@ -15,8 +15,7 @@
 
 <br/>
 
-![App Banner](https://img.shields.io/badge/🦁_Lion-🐘_Elephant-🦋_Butterfly-brightgreen?style=flat-square)
-![App Banner](https://img.shields.io/badge/🐬_Dolphin-🦅_Eagle-🐼_Panda-blue?style=flat-square)
+
 
 </div>
 
